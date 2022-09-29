@@ -18,13 +18,15 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 - Strip size: 22 x 6 mm
 - Panel includes 40 LED Strips
 - Requires a total of 40 0807 size LEDs to assemble
+
 ![x1 LED Strips Panelised Front Render](https://user-images.githubusercontent.com/7828884/192925136-33a7f0f9-4989-4f67-bec8-f4ff0f6b66d9.jpg)
 
 ##	x5 LED Strips
 - Panel size: 90 x 80 mm
 - Strip size: 32 x 6 mm
 - Panel includes 20 LED Strips
-- 	Requires a total of 100 0807 size LEDs to assemble
+- Requires a total of 100 0807 size LEDs to assemble
+
 ![x5 LED Strips Panelised Front Render](https://user-images.githubusercontent.com/7828884/192925227-6b5b798c-6f26-4996-93d8-5ae677a26db2.jpg)
 
 
@@ -33,6 +35,7 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 -	LED Ring Size: 60 x 44 mm
 -	Panel includes 1 LED Ring
 -	Requires a total of 12 0807 size LEDs to assemble
+
 ![Glowstitch LED Ring Front Render](https://user-images.githubusercontent.com/7828884/192925258-824bff5c-9bab-4c85-b85d-7ccb6652d5a5.jpg)
 
 ##	Coin cell battery holder
@@ -42,6 +45,7 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 -	Requires x1 SMD Slide Switch:
 	https://www.aliexpress.com/item/32885421103.html
 - M3 x 2mm Screws
+
 ![GlowStitch Coin Cell Holder Front Render](https://user-images.githubusercontent.com/7828884/192925295-fda27ba8-d813-43d7-964c-d65ad5e09edb.jpg)
 
 ##	AAA Battery Holder
@@ -50,6 +54,7 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 	https://www.aliexpress.com/item/1005002935544616.html
 -	Requires x1 SMD Slide Switch:
 	https://www.aliexpress.com/item/32885421103.html
+
 ![AAA Battery Holder Front Render](https://user-images.githubusercontent.com/7828884/192925377-833fd824-058e-48f6-8e6e-7a2e9ef7e3f0.jpg)
 
 Whatever you make, I’d prefer if you labelled it with the project name ‘GlowStitch’ as attribution to the project.  Please note the variety sheets with space artwork showcased on the Crowd Supply campaign will not be available here.  
