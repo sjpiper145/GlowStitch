@@ -62,7 +62,7 @@ The tabs on the LED strips are designed for 8mm size fabric conductive tape.
 # Design
 This design is optimised for flexible PCB manufacture, including wavy traces and teardrop ends to reduce the potential of traces snapping from metal fatigue.  There is also a silkscreen ‘swoosh’ on the positive side of the strips to make it easy to identify which side is which when the ends are covered with tape.  
 These designs are arranged in a square frame already, which is called ‘panelising’ the design.  This makes it easier for the factory to manufacture.  
-
+![x5 LED Strips close up](https://user-images.githubusercontent.com/7828884/192927069-e23c2f7d-71bc-4c4c-94ea-7088fc57df42.jpg)
 While coin cell battery holders are the smaller source of power, they also present a swallowing hazard for young children.  I have added a small screw hole to add an M3 size screw below the battery to make it harder for a child to remove. I strongly recommend using the AAA battery holder instead if you are in an edutech space or have young children around your house.  
 
 These designs may change as I update them with improvements. 
