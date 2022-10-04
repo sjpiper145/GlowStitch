@@ -12,6 +12,8 @@ I encourage you to download these blueprints and design your own modules for cus
 
 # What’s included
 Included in these files are the following types of GlowStitch LEDs, which all include editable KiCAD files, and renders. To make these, you'll need to export them as a gerber in KiCAD and send to a PCB manufacturer.  I've also included printable PDF instructions and project sheets to give you an idea of how to use these most effectively.
+![LED Strips Instructions-06](https://user-images.githubusercontent.com/7828884/193742632-383ff43e-1757-47fd-accb-4d9b1962932f.png)
+![LED Strips Instructions-05](https://user-images.githubusercontent.com/7828884/193742641-f591cd55-9081-438c-8670-8f6a6c560101.png)
 
 ##	x1 LED Strips
 - Panel size: 100 x 100 mm
