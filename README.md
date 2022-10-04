@@ -57,12 +57,12 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 
 ![AAA Battery Holder Front Render](https://user-images.githubusercontent.com/7828884/192925377-833fd824-058e-48f6-8e6e-7a2e9ef7e3f0.jpg)
 
-Whatever you make, I’d prefer if you labelled it with the project name ‘GlowStitch’ as attribution to the project.  Please note the variety sheets with space artwork showcased on the Crowd Supply campaign will not be available here.  
+# How to use these files
 
-# Tech Specs
-As well as the editable working files in KiCAD, I’ve also included the gerber files for each of these which enable you to send these directly to the factory of your choice.  Soon they will also be available through PCBWay’s module store if you’d prefer to just click the purchase button.  
-All the LEDs used are 0807 size, about half the size of a grain of rice.  If you are planning to hand-solder these in your own run of LED strips, make sure to get yourself some proper SMD (surface mount) soldering equipment rather than using a large soldering iron. This includes a reflow plate, reflow oven or hot air reflow station, plus solder paste and a good pair of tweezers. 
-The tabs on the LED strips are designed for 8mm size fabric conductive tape. 
+Whatever you make, I’d prefer if you labelled it with the project name ‘GlowStitch’ as attribution to the project.  Please note the variety sheets with space artwork showcased on the Crowd Supply campaign will not be available here.  I've included the editable KiCAD files in the folders above, to have these made you'll need to export the gerber files and send to your manufacturer.  After the crowdfunding campaign is complete they will also be available through PCBWay’s module store if you’d prefer to just click the purchase button.   
+
+# Tech Specs 
+All the LEDs used are 0807 size, about half the size of a grain of rice.  You can make these up with any colour of LED you like, but make sure to choose the same LED colour in a single strip otherwise your LEDs will not be uniformly bright. If you are planning to hand-solder these in your own run of LED strips, make sure to get yourself some proper SMD (surface mount) soldering equipment rather than using a large soldering iron. This includes a reflow plate, reflow oven or hot air reflow station, plus solder paste and a good pair of tweezers. The tabs on the LED strips are designed for 8mm size fabric conductive tape. 
 
 # Design
 This design is optimised for flexible PCB manufacture, including wavy traces and teardrop ends to reduce the potential of traces snapping from metal fatigue.  There is also a silkscreen ‘swoosh’ on the positive side of the strips to make it easy to identify which side is which when the ends are covered with tape.  
