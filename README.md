@@ -11,7 +11,7 @@ The aim of this project is to make electronics easier and strip away the things 
 I encourage you to download these blueprints and design your own modules for custom projects, interesting applications, and commercial products.  This will enable the creation of much larger custom projects where you might require more specific LED colours for group projects, art installations, conference badges and much more.  By doing this I will be delighted to know that you are inspiring and educating others and maybe even learning some circuit board design skills yourself.  
 
 # What’s included
-Included in these files are the following types of GlowStitch LEDs, which all include editable KiCAD files, and renders. To make these, you'll need to export them as a gerber in KiCAD and send to a PCB manufacturer.
+Included in these files are the following types of GlowStitch LEDs, which all include editable KiCAD files, and renders. To make these, you'll need to export them as a gerber in KiCAD and send to a PCB manufacturer.  I've also included printable PDF instructions and project sheets to give you an idea of how to use these most effectively.
 
 ##	x1 LED Strips
 - Panel size: 100 x 100 mm
