@@ -7,7 +7,8 @@ These will be launched as a project with [Crowd Supply](https://www.crowdsupply.
 The build process has been documented on the [Hackaday Project page](https://hackaday.io/project/186907-machine-sewable-led-strips).
 
 # Why Open Source? 
-The aim of this project is to make electronics easier and strip away the things that make it hard.  Releasing the circuit board designs makes it easier for others to get involved and design their own compatible modules, building up a larger variety of GlowStitch parts.  The faster we can work, the more things we’ll build and the better we’ll get at things like innovating in wearable tech and edutech spaces.  
+The aim of this project is to make electronics easier and strip away the things that make it hard.  Releasing the circuit board designs makes it easier for others to get involved and design their own compatible modules, building up a larger variety of GlowStitch parts.  This will fast track more innovation in wearable tech and edutech spaces. 
+
 I encourage you to download these blueprints and design your own modules for custom projects, interesting applications, and commercial products.  This will enable the creation of much larger custom projects where you might require more specific LED colours for group projects, art installations, conference badges and much more.  By doing this I will be delighted to know that you are inspiring and educating others and maybe even learning some circuit board design skills yourself.  
 
 # What’s included
