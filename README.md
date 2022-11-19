@@ -17,6 +17,7 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 ![LED Strips Instructions-05](https://user-images.githubusercontent.com/7828884/193742641-f591cd55-9081-438c-8670-8f6a6c560101.png)
 
 ##	x1 LED Strips
+Works best for colour cycling LEDs that already have current limiting built in.
 - Panel size: 100 x 100 mm
 - Strip size: 22 x 6 mm
 - Panel includes 40 LED Strips
@@ -24,16 +25,36 @@ Included in these files are the following types of GlowStitch LEDs, which all in
 
 ![x1 LED Strips Panelised Front Render](https://user-images.githubusercontent.com/7828884/192925136-33a7f0f9-4989-4f67-bec8-f4ff0f6b66d9.jpg)
 
+##	x1 LED Strips w/ Resistor
+Works best for standard LEDs that require current limiting resistors.
+- Panel size: 100 x 100 mm
+- Strip size: 22 x 6 mm
+- Panel includes 40 LED Strips
+- Requires a total of 40 0807 size LEDs and 40 27Ω resistors to assemble.
+
+![x1 LED Strips w Resistor Panelised Front Render](https://user-images.githubusercontent.com/7828884/202836544-c91f8b09-8c86-41c5-b93b-cc6d9b08d0a2.jpg)
+
 ##	x5 LED Strips
+Works best for colour cycling LEDs that already have current limiting built in.
 - Panel size: 90 x 80 mm
 - Strip size: 32 x 6 mm
 - Panel includes 20 LED Strips
-- Requires a total of 100 0807 size LEDs to assemble
+- Requires a total of 100 0807 size LEDs to assemble.
 
 ![x5 LED Strips Panelised Front Render](https://user-images.githubusercontent.com/7828884/192925227-6b5b798c-6f26-4996-93d8-5ae677a26db2.jpg)
 
+##	x5 LED Strips w/Resistor
+Works best for standard LEDs that require current limiting resistors.
+- Panel size: 90 x 80 mm
+- Strip size: 32 x 6 mm
+- Panel includes 20 LED Strips
+- Requires a total of 100 0807 size LEDs and 20 6.8Ω resistors to assemble.
+
+![x5 LED Strips w Resistor Panelised Front Render](https://user-images.githubusercontent.com/7828884/202836630-71d1a099-1a71-41b2-8124-b406e5804611.jpg)
+
 
 ## x12 LED Ring  
+Works best for colour cycling LEDs that already have current limiting built in.
 -	Panel Size: 70 x 54 mm 
 -	LED Ring Size: 60 x 44 mm
 -	Panel includes 1 LED Ring
