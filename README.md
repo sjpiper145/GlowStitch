@@ -70,7 +70,7 @@ Works best for colour cycling LEDs that already have current limiting built in.
 	https://www.aliexpress.com/item/32885421103.html
 - M3 x 2mm Screws
 
-![GlowStitch Coin Cell Holder Front Render](https://user-images.githubusercontent.com/7828884/192925295-fda27ba8-d813-43d7-964c-d65ad5e09edb.jpg)
+![GlowStitch Coin Cell Holder Front Render](https://user-images.githubusercontent.com/7828884/202887428-94246fbe-23f2-43b9-926e-a263c188a6fa.jpg)
 
 ##	AAA Battery Holder
 -	Battery Holder Size: 70 x 36 mm
@@ -79,7 +79,7 @@ Works best for colour cycling LEDs that already have current limiting built in.
 -	Requires x1 SMD Slide Switch:
 	https://www.aliexpress.com/item/32885421103.html
 
-![AAA Battery Holder Front Render](https://user-images.githubusercontent.com/7828884/192925377-833fd824-058e-48f6-8e6e-7a2e9ef7e3f0.jpg)
+![AAA Battery Holder Front Render](https://user-images.githubusercontent.com/7828884/202887421-71a4cba4-ad5b-42e8-a182-38a076a9daa2.jpg)
 
 # How to use these files
 
