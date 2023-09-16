@@ -1,5 +1,6 @@
 # GLOWSTITCH LEDS 
 Open Source Hardware – [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by-sa/4.0/)
+OSHWA Certified - [Project ID AU000012](https://certification.oshwa.org/au000012.html)
 
 # What are GlowStitch LEDs?
 GlowStitch LEDs are flexible, paintable, machine sewable, hand sewable, and colorful LED lights. Perfect for hobbyists, makers, cosplayers, and teachers, they are the ultimate all-in-one crafting product for soft circuits, paper circuits, and so much more. Made from flexible PCBs, they are the most versatile way to get started with electronics and crafting projects.  All you need is some conductive fabric tape and a battery holder to make a circuit.
