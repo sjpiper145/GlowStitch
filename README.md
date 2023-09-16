@@ -1,5 +1,5 @@
 # GLOWSTITCH LEDS 
-Open Source Hardware – [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by-sa/4.0/)
+Open Source Hardware – [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by-sa/4.0/)                        
 OSHWA Certified - [Project ID AU000012](https://certification.oshwa.org/au000012.html)
 
 # What are GlowStitch LEDs?
