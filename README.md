@@ -30,7 +30,7 @@ Works best for standard LEDs that require current limiting resistors.
 - Panel size: 100 x 100 mm
 - Strip size: 22 x 6 mm
 - Panel includes 40 LED Strips
-- Requires a total of 40 0807 size LEDs and 40 0607 27Ω resistors to assemble.
+- Requires a total of 40 0807 size LEDs and 40 0607 150Ω resistors to assemble.
 
 ![x1 LED Strips w Resistor Panelised Front Render](https://user-images.githubusercontent.com/7828884/202836544-c91f8b09-8c86-41c5-b93b-cc6d9b08d0a2.jpg)
 
@@ -48,7 +48,7 @@ Works best for standard LEDs that require current limiting resistors.
 - Panel size: 90 x 80 mm
 - Strip size: 32 x 6 mm
 - Panel includes 20 LED Strips
-- Requires a total of 100 0807 size LEDs and 20  0607 6.8Ω resistors to assemble.
+- Requires a total of 100 0807 size LEDs and 20  0607 150Ω resistors to assemble.
 
 ![x5 LED Strips w Resistor Panelised Front Render](https://user-images.githubusercontent.com/7828884/202836630-71d1a099-1a71-41b2-8124-b406e5804611.jpg)
 
